@@ -33,29 +33,28 @@ prdouce and display more meaningful data.  This multi-line chart tells the story
 
 1. The total number of rides for each city type. 
    - Here we see that total ridership in Urban cities and higher that Suburban and most significantly higher than 
-   Rural cities - by 13 times higher.  
+     Rural cities - by 13 times higher.  
 2. The total number of drivers for each city type.
    - We also know that total drivers in Urban cities is much higher that in rural cities.The number of drivers
-   in Urban type is almost 31 times higher than Rural.  
+     in Urban type is almost 31 times higher than Rural.  
 3. The sum of the fares for each city type.
    - The fares in Urban cities is much higher than Suburban and Rural. In some cases, 9 times higher.  
 4. The average fare per ride for each city type.
-   - The average fare per ride is lower in Urban cities. The most economical ride is costs an average of $24.53 a ride
+   - The average fare per ride is lower in Urban cities. The most economical ride is costs an 
+     average of $24.53 a ride
 5. The average fare per driver for each city type.
-   - Average fares are also lower in Urban cities than in Rural cities.  The average fare per driver is most economical
-   at only $16.57 per driver
-6. The total fares for each week by city type. The results below represent the total Fares by City type and the Urban, 
-   Suburban, and Rural correlation between the average fares per week.    
+   - Average fares are also lower in Urban cities than in Rural cities.  The average fare per driver 
+     is most economical in the city at only $16.57 per driver
+6. The total fares for each week by city type. The results below represent the 
+   total Fares by City type and the Urban, Suburban, and Rural correlation between the average fares per week.    
    This data in the multi-line graph is from a period of time Jauary 2019 to May 2019.
    
  ![Multiple Line Chart Tot Fares by City Type](https://github.com/mjrotter4445/Pyber_Analysis/blob/main/Graphics/PyBer_fare_summary.png)
 
  
-This data in the multi-line graph is from a period of time Jauary 2019 to May 2019.    
-
-
+ 
 ## Summary 
 There are many noticeable differences between Urban, Suburban, Rural riders and drivers in terms of volume. The most obvious conclusions 
 that can be drawn is that Rural environments have the least amount of riders and drivers while Urban environments have many more riders 
 and drivers. Suburban enviroments fall right in between.  Urban cities, with their highest ride and rider count have the lowest aveage 
-fare per driver.  It's most economical to ride in the city.  Also noticeable is the peak in the 3rd week of February for all 3 city types.    
+fare per driver.  It's most economical to ride in the city.  Also noticeable, is the peak in the 3rd week of February for all 3 city types.    
