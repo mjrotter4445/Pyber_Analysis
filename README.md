@@ -44,10 +44,10 @@ prdouce and display more meaningful data.  This multi-line chart tells the story
 5. The average fare per driver for each city type.
    - Average fares are also lower in Urban cities than in Rural cities.  The average fare per driver is most economical
    at only $16.57 per driver
-6. The total fares for each week by city type. 
+6. The total fares for each week by city type. The results below represent the total Fares by City type and the Urban, 
+   Suburban, and Rural correlation between the average fares per week.    
+   This data in the multi-line graph is from a period of time Jauary 2019 to May 2019.
    
-   
-
  ![Multiple Line Chart Tot Fares by City Type](https://github.com/mjrotter4445/Pyber_Analysis/blob/main/Graphics/PyBer_fare_summary.png)
 
  
