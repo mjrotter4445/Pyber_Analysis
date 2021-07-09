@@ -49,3 +49,11 @@ prdouce and display more meaningful data.  This multi-line chart tells the story
 
  
 This data in the multi-line graph is from a period of time Jauary 2019 to May 2019.    
+
+
+## Summary 
+There are many noticeable differences between Urban, Suburban, Rural riders and drivers in terms of volume. The most obvious conclusions 
+that can be drawn is that Rural environments have the least amount of riders and drivers while Urban environments have many more riders 
+and drivers. Suburban enviroments fall right in between.  Urban cities, with their highest ride and river count have the lowest aveage 
+fare per driver.  It's most economical to ride in the city.    
+Also noticeable is the peak in the 3rd week of February for all 3 city types.    
